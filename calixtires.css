@@ -1,0 +1,21 @@
+background-image{
+
+}
+.topright {
+  position: absolute;
+  top:8px;
+  right: 16px;
+}
+li {
+  display:  inline;
+}
+ul{
+  font-family: 'Faster One', cursive;
+  font-size: 50px;
+}
+h1 {
+  font-family: 'Sonsie One', cursive;
+}
+p{
+  font-family: 'Sonsie One', cursive;
+}

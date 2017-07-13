@@ -1,0 +1,13 @@
+img{
+  height: 200px;
+  width: 200px;
+}
+
+.img1{
+  height: 250px;
+  border: 5px solid black;
+}
+
+li{
+  display: inline; 
+}
